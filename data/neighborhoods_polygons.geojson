@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.98,
+              32.23
+            ],
+            [
+              -110.97,
+              32.23
+            ],
+            [
+              -110.97,
+              32.22
+            ],
+            [
+              -110.98,
+              32.22
+            ],
+            [
+              -110.98,
+              32.23
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Armory Park",
+        "population": 1200,
+        "type": "historic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.97,
+              32.24
+            ],
+            [
+              -110.96,
+              32.24
+            ],
+            [
+              -110.96,
+              32.23
+            ],
+            [
+              -110.97,
+              32.23
+            ],
+            [
+              -110.97,
+              32.24
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sam Hughes",
+        "population": 3400,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.99,
+              32.24
+            ],
+            [
+              -110.98,
+              32.24
+            ],
+            [
+              -110.98,
+              32.23
+            ],
+            [
+              -110.99,
+              32.23
+            ],
+            [
+              -110.99,
+              32.24
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Menlo Park",
+        "population": 2100,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111,
+              32.23
+            ],
+            [
+              -110.99,
+              32.23
+            ],
+            [
+              -110.99,
+              32.22
+            ],
+            [
+              -111,
+              32.22
+            ],
+            [
+              -111,
+              32.23
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Barrio Historico",
+        "population": 900,
+        "type": "historic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.98,
+              32.25
+            ],
+            [
+              -110.97,
+              32.25
+            ],
+            [
+              -110.97,
+              32.24
+            ],
+            [
+              -110.98,
+              32.24
+            ],
+            [
+              -110.98,
+              32.25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Feldmans",
+        "population": 1800,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.96,
+              32.25
+            ],
+            [
+              -110.95,
+              32.25
+            ],
+            [
+              -110.95,
+              32.24
+            ],
+            [
+              -110.96,
+              32.24
+            ],
+            [
+              -110.96,
+              32.25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Blenman-Elm",
+        "population": 2700,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.01,
+              32.25
+            ],
+            [
+              -111,
+              32.25
+            ],
+            [
+              -111,
+              32.24
+            ],
+            [
+              -111.01,
+              32.24
+            ],
+            [
+              -111.01,
+              32.25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Flowing Wells",
+        "population": 5100,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.95,
+              32.23
+            ],
+            [
+              -110.94,
+              32.23
+            ],
+            [
+              -110.94,
+              32.22
+            ],
+            [
+              -110.95,
+              32.22
+            ],
+            [
+              -110.95,
+              32.23
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Broadmoor-Broadway",
+        "population": 3200,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.99,
+              32.26
+            ],
+            [
+              -110.98,
+              32.26
+            ],
+            [
+              -110.98,
+              32.25
+            ],
+            [
+              -110.99,
+              32.25
+            ],
+            [
+              -110.99,
+              32.26
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Amphi",
+        "population": 4400,
+        "type": "residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.97,
+              32.26
+            ],
+            [
+              -110.96,
+              32.26
+            ],
+            [
+              -110.96,
+              32.25
+            ],
+            [
+              -110.97,
+              32.25
+            ],
+            [
+              -110.97,
+              32.26
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pima Canyon",
+        "population": 2900,
+        "type": "residential"
+      }
+    }
+  ]
+}

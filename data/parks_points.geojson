@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9747,
+          32.2226
+        ]
+      },
+      "properties": {
+        "name": "Reid Park",
+        "type": "park",
+        "amenities": "zoo, lake, tennis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.952,
+          32.2319
+        ]
+      },
+      "properties": {
+        "name": "Saguaro NP East",
+        "type": "national park",
+        "amenities": "hiking, camping"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1666,
+          32.2412
+        ]
+      },
+      "properties": {
+        "name": "Saguaro NP West",
+        "type": "national park",
+        "amenities": "hiking, scenic drive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9875,
+          32.255
+        ]
+      },
+      "properties": {
+        "name": "Brandi Fenton Park",
+        "type": "park",
+        "amenities": "playground, ramadas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.965,
+          32.21
+        ]
+      },
+      "properties": {
+        "name": "Himmel Park",
+        "type": "park",
+        "amenities": "pool, library, tennis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.978,
+          32.198
+        ]
+      },
+      "properties": {
+        "name": "Armory Park",
+        "type": "park",
+        "amenities": "historic, picnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.99,
+          32.275
+        ]
+      },
+      "properties": {
+        "name": "Rillito Regional Park",
+        "type": "regional park",
+        "amenities": "trails, sports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.01,
+          32.22
+        ]
+      },
+      "properties": {
+        "name": "Sentinel Peak Park",
+        "type": "park",
+        "amenities": "hiking, views"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.96,
+          32.245
+        ]
+      },
+      "properties": {
+        "name": "Agua Caliente Park",
+        "type": "regional park",
+        "amenities": "pond, wildlife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.93,
+          32.26
+        ]
+      },
+      "properties": {
+        "name": "Sabino Canyon",
+        "type": "recreation area",
+        "amenities": "hiking, tram, creek"
+      }
+    }
+  ]
+}
